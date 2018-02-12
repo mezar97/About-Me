@@ -1,0 +1,47 @@
+body{
+    background-image: url(1.net.jpg);
+    background-size: cover;
+}
+
+h2{
+    color: #817373;
+    margin-left: 10px;
+    text-shadow: 2px 2px 4px #0a0a94;
+    font-family: 'Nova Flat', cursive;
+}
+
+hr{
+    margin-left: 10px;
+    margin-right: 900px;
+    margin-bottom: 50px;
+}
+
+h3{
+    color: beige;
+    margin-left: 10px;
+    font-family: 'Nova Flat', cursive;
+}
+.work-history> li {
+    font-size: 25px;
+    color: #817373;
+    text-shadow: 2px 2px 4px #0a0a94;
+    margin-top: 100PX;
+    font-family: 'Nova Flat', cursive;
+}
+
+
+.work-history> p{
+    color: beige;
+    margin-left: 15px;
+    font-size: 15PX;
+    margin-top: 50PX;
+    font-family: 'Nova Flat', cursive;
+}
+
+footer{
+    text-align: right;
+    padding: 5px;
+    text-shadow: 2px 2px 4px #817373; 
+    color: #f0ffff;
+    margin-top: 100px;
+}

@@ -1,0 +1,50 @@
+body{
+    background-image: url(img1.JPG);
+    background-image:  cover;
+    background-size: 990px;
+}
+
+h2{
+    color: azure;
+    font-family:  'Nova Flat', cursive; 
+    text-shadow: 2px 2px 4px #817373; 
+    margin-left: 50px;
+}
+
+h3{
+  color: azure;
+  font-family:  'Nova Flat', cursive;
+  text-shadow: 2px 2px 4px #817373;  
+  margin-left: 50px;
+}
+
+hr {
+    margin-left: 45px;
+    margin-right: 840px;
+    margin-bottom: 35px;
+}
+
+.edication > h3{
+    color: crimson; 
+    float: right;
+    margin-right: 360px;
+    text-shadow: 2px 2px 4px #fcfcfc;  
+}
+
+
+.edication > p {
+    color: azure;
+    float: right;
+    margin-right: 40px;
+    text-shadow: 2px 2px 4px #fd0404;  
+    font-size: 20   px;
+    font-family:  'Nova Flat', cursive;
+
+}
+footer{
+    text-align: right;
+    padding: 5px;
+    text-shadow: 2px 2px 4px #817373; 
+    color: #f0ffff;
+    margin-top: 260px;
+    }   

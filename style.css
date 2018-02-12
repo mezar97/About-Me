@@ -20,34 +20,24 @@ header h1{
 ul a {
     text-decoration: none;
     display: block;
-    color: rgb(92, 30, 30);
-    text-shadow: 2px 2px 4px rgb(187, 54, 54);
-
+    color: #000000;
+    text-shadow: 2px 2px 4px #3e3f3d;
+    margin-left: 10px;
+    text-decoration: underline;
 }
 
 .MY-LIFE article h2{
-    text-shadow: 2px 2px 4px #333;
+    text-shadow: 2px 2px 4px #272525;
     letter-spacing: 4px;
     margin-left: 20px;
+    color: #191a46
 }
 
 article > ul p{
     color: rgb(29, 29, 29);
     margin-bottom: 20px;
 }
-.favourit-times > li b {
-    text-shadow: 2px 2px 4px #817373;
-    font-size: 19px;
-}
 
-.favourit-times > p {
-    color: rgb(49, 49, 49);
-}
-
-
-article > ol {
-    font-size: 15px;
-}
 .edication > li b{
     text-shadow: 2px 2px 4px #817373; 
     font-size: 19px;  
@@ -64,4 +54,4 @@ footer{
     padding: 5px;
     text-shadow: 2px 2px 4px #817373; 
     color: #f0ffff
-    }
+}

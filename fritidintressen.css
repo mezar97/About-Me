@@ -1,0 +1,43 @@
+body{
+    background-image: url(mezar.2.jpg);
+    background-size: cover;
+}
+
+h2 {
+    margin-left:  20px;
+    text-shadow: 2px 2px 4px #817373;
+    font-size: 35px;
+}
+
+h3 { 
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+hr {
+    margin-left: 10px;
+    margin-right: 900px;
+    margin-bottom: 35px;
+}
+
+.favourit-times >  b{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: midnightblue;
+    text-shadow: 2px 2px 4px #817373;
+    margin-left: 25px;
+}
+
+.favourit-times> p{
+    color: midnightblue;
+    margin-left: 25px;
+    font-size: 20px
+}
+
+footer{
+    text-align: right;
+    padding: 5px;
+    text-shadow: 2px 2px 4px #817373; 
+    color: #f0ffff;
+    margin-top: 250px;
+    }
