@@ -1,0 +1,59 @@
+header h1{
+    color: rgb(51, 41, 41);
+    font-family: Courier New, Courier, monospace;
+    margin: 0%;
+    text-align: center;
+    text-shadow: 2px 2px 4px #333;
+    margin-top: 55px;
+}
+
+
+.including img {
+    display: block;
+    box-shadow: 2px 2px 4px #000000;
+    border-radius: 15px;
+    height: 225px;
+    width: 225 px;
+    margin-left: 55px;    
+}
+
+.MY-LIFE article h2{
+    text-shadow: 2px 2px 4px #333;
+    letter-spacing: 4px;
+    margin-left: 20px;
+}
+
+article > ul p{
+    color: rgb(29, 29, 29);
+    margin-bottom: 20px;
+}
+.favourit-times > li b {
+    text-shadow: 2px 2px 4px #817373;
+    font-size: 19px;
+}
+
+.favourit-times > p {
+    color: rgb(49, 49, 49);
+}
+
+
+article > ol {
+    font-size: 15px;
+}
+.edication > li b{
+    text-shadow: 2px 2px 4px #817373; 
+    font-size: 19px;  
+}
+.work-history > li b{
+    text-shadow: 2px 2px 4px #817373; 
+    font-size: 19px;   
+}
+p{
+    font-size: 20px;
+}
+footer{
+    text-align: right;
+    padding: 5px;
+    text-shadow: 2px 2px 4px #817373; 
+    color: #f0ffff
+    }
