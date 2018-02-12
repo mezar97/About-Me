@@ -17,6 +17,14 @@ header h1{
     margin-left: 55px;    
 }
 
+ul a {
+    text-decoration: none;
+    display: block;
+    color: rgb(92, 30, 30);
+    text-shadow: 2px 2px 4px rgb(187, 54, 54);
+
+}
+
 .MY-LIFE article h2{
     text-shadow: 2px 2px 4px #333;
     letter-spacing: 4px;
