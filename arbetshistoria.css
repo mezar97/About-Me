@@ -15,6 +15,9 @@ hr{
     margin-right: 900px;
     margin-bottom: 50px;
 }
+h2{
+    font-family: monospace;
+}
 
 h3{
     color: beige;
